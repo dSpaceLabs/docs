@@ -12,7 +12,7 @@ request.
 The name MUST be written as `dSpace Labs LLC` with a lowercase 'd'. This is the
 fully qualified legal name of this organization. When coding, this name SHOULD
 confirm to the languages best practices. For example, all PHP code SHOULD be
-under the namespace `Dspace`. For example `Dspace\Component\User`.
+under the namespace `Dspacelabs`. For example `Dspacelabs\Component\User`.
 
 Yes: `dSpace Labs LLC`
 
@@ -20,15 +20,11 @@ No: `Dspace Labs LLC`
 
 No: `dSpace Labs`
 
-## IRC Channels
-
-- [#dspacelabs](irc://chat.freenode.net/dspacelabs)
-
 ## General Workflow Guidelines
 
 @todo What are the tools that are used and how to use the tools.
 
-### [GitHub](https://github.com/)
+### [GitHub](https://github.com/dSpaceLabs)
 
 - Preferred hosting for all git repositories.
 - Disabled Issues and Wiki
